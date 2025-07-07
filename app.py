@@ -4,7 +4,8 @@ from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
-from auth import User, validate_login, configure_login
+import datetime # Importado para lidar com objetos de data
+from auth import User, validate_login, configure_login # Assumindo que auth.py está configurado corretamente
 
 # Flask app
 server = Flask(__name__)
@@ -17,14 +18,15 @@ app = Dash(
     server=server,
     url_base_pathname="/dashboard/",
     external_stylesheets=[dbc.themes.FLATLY],
-    suppress_callback_exceptions=True
+    suppress_callback_exceptions=True # Manter para desenvolvimento, mas cuidado em produção
 )
 
 # Carregar dados
 df = pd.read_csv("dados_restaurante.csv", parse_dates=['DataHora'])
-df['Data'] = pd.to_datetime(df['DataHora']).dt.date
-df['Hora'] = pd.to_datetime(df['DataHora']).dt.hour
-df['Dia'] = pd.to_datetime(df['DataHora']).dt.date
+# Garante que 'Data' seja um objeto datetime.date para comparação consistente
+df['Data'] = df['DataHora'].dt.date
+df['Hora'] = df['DataHora'].dt.hour
+# df['Dia'] foi removido pois era redundante com df['Data']
 
 # Layout
 app.layout = dbc.Container([
@@ -43,6 +45,7 @@ app.layout = dbc.Container([
             html.Label("📅 Intervalo de datas:"),
             dcc.DatePickerRange(
                 id='filtro-data',
+                # min_date_allowed e max_date_allowed já são objetos datetime.date
                 min_date_allowed=df['Data'].min(),
                 max_date_allowed=df['Data'].max(),
                 start_date=df['Data'].min(),
@@ -76,7 +79,7 @@ app.layout = dbc.Container([
     ])
 ], fluid=True)
 
-# Callback
+# Callback para atualizar o dashboard
 @app.callback(
     Output('kpis', 'children'),
     Output('faturamento-diario', 'figure'),
@@ -89,10 +92,16 @@ app.layout = dbc.Container([
     Input('filtro-categoria', 'value')
 )
 def atualizar_dashboard(start_date, end_date, categoria):
-    df_filtrado = df[(df['Data'] >= pd.to_datetime(start_date)) & (df['Data'] <= pd.to_datetime(end_date))]
+    # Converte as strings de data do DatePickerRange para objetos datetime.date
+    # para garantir uma comparação correta com df['Data']
+    start_date_obj = datetime.datetime.strptime(start_date, '%Y-%m-%d').date()
+    end_date_obj = datetime.datetime.strptime(end_date, '%Y-%m-%d').date()
+
+    df_filtrado = df[(df['Data'] >= start_date_obj) & (df['Data'] <= end_date_obj)]
     if categoria != 'Todas':
         df_filtrado = df_filtrado[df_filtrado['Categoria'] == categoria]
 
+    # Cálculo dos KPIs
     kpis = [
         dbc.Col(dbc.Card([
             dbc.CardHeader("Faturamento Total"),
@@ -120,13 +129,15 @@ def atualizar_dashboard(start_date, end_date, categoria):
         ], color="dark", inverse=True), width=3),
     ]
 
-    fig_faturamento = px.line(df_filtrado.groupby('Dia')['Valor'].sum().reset_index(), x='Dia', y='Valor', title='Faturamento Diário')
+    # Geração dos gráficos
+    # Usando df['Data'] para o eixo X, que já é datetime.date
+    fig_faturamento = px.line(df_filtrado.groupby('Data')['Valor'].sum().reset_index(), x='Data', y='Valor', title='Faturamento Diário')
     fig_pedidos = px.histogram(df_filtrado, x='Categoria', title='Pedidos por Categoria')
     fig_ticket = px.box(df_filtrado, x='Categoria', y='Valor', title='Distribuição do Ticket por Categoria')
 
-    heatmap_data = df_filtrado.groupby(['Hora', 'Dia']).size().reset_index(name='Pedidos')
+    heatmap_data = df_filtrado.groupby(['Hora', 'Data']).size().reset_index(name='Pedidos')
     fig_heatmap = px.density_heatmap(
-        heatmap_data, x='Dia', y='Hora', z='Pedidos', nbinsx=30, nbinsy=12,
+        heatmap_data, x='Data', y='Hora', z='Pedidos', nbinsx=30, nbinsy=12,
         color_continuous_scale='Viridis', title='⏰ Volume de Pedidos por Horário'
     )
 
@@ -158,8 +169,11 @@ def logout():
 
 @app.server.before_request
 def proteger_dashboard():
+    # Protege o dashboard, redirecionando para o login se o usuário não estiver autenticado
     if request.path.startswith("/dashboard") and not current_user.is_authenticated:
         return redirect(url_for("login"))
 
 if __name__ == "__main__":
+    # Certifique-se de que 'dados_restaurante.csv' e 'login.html' existam
+    # e que o módulo 'auth.py' esteja no mesmo diretório ou acessível.
     server.run(debug=True)
