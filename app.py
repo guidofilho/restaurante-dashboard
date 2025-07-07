@@ -161,7 +161,5 @@ def proteger_dashboard():
     if request.path.startswith("/dashboard") and not current_user.is_authenticated:
         return redirect(url_for("login"))
 
-from waitress import serve
-
 if __name__ == "__main__":
-    serve(server, host="0.0.0.0", port=8000)
+    server.run(debug=True)
