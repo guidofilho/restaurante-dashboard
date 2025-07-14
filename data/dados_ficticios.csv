@@ -1,0 +1,1001 @@
+data,categoria,produto,quantidade,preco_unitario,custo_unitario,forma_pagamento,tipo_venda
+2025-06-08,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-04-14,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-05-06,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-05-02,Comida,Porção de Batata,3,22,7,Dinheiro,Salão
+2025-06-17,Bebida,Cerveja,3,12,4,Crédito,Delivery
+2025-06-11,Bebida,Cerveja,4,12,4,Débito,Balcão
+2025-07-01,Bebida,Cerveja,1,12,4,Crédito,Balcão
+2025-04-19,Bebida,Caipirinha,1,18,6,Débito,Balcão
+2025-05-19,Comida,Hambúrguer,3,28,11,Débito,Balcão
+2025-04-14,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-05-01,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-27,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-04-14,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-04-29,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Salão
+2025-06-09,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-31,Sobremesa,Petit Gateau,1,16,5,Crédito,Balcão
+2025-05-01,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-06-04,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-06-23,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Salão
+2025-04-12,Bebida,Cerveja,3,12,4,Crédito,Salão
+2025-06-23,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-06-13,Comida,Porção de Batata,1,22,7,Crédito,Delivery
+2025-05-12,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-04-25,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-07-07,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-05-12,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-04-20,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-04-20,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-06-27,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-06-05,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-23,Comida,Porção de Batata,1,22,7,Dinheiro,Salão
+2025-06-16,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-05-30,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-07-08,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-05-16,Comida,Porção de Batata,2,22,7,Débito,Salão
+2025-05-31,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-06-25,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-06-06,Comida,Hambúrguer,1,28,11,Dinheiro,Balcão
+2025-06-28,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-06-02,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-06-14,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-04-16,Bebida,Cerveja,3,12,4,Crédito,Delivery
+2025-05-02,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-05-08,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-04-19,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-05-02,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-04-21,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-05-07,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-08,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-05-14,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-05-15,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-04-30,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-05-06,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-07-05,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-06-09,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-06-05,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-04-27,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-06-16,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-04-26,Bebida,Caipirinha,3,18,6,Dinheiro,Balcão
+2025-05-16,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-07-10,Comida,Hambúrguer,3,28,11,Crédito,Delivery
+2025-06-08,Comida,Hambúrguer,3,28,11,Crédito,Delivery
+2025-06-01,Bebida,Cerveja,1,12,4,Crédito,Balcão
+2025-06-12,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-06-26,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-06-20,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-05-02,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-04-14,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-05-10,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-06,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-04-30,Comida,Hambúrguer,2,28,11,Débito,Delivery
+2025-07-05,Comida,Porção de Batata,2,22,7,Crédito,Salão
+2025-06-29,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-05-10,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-06-09,Comida,Porção de Batata,1,22,7,Crédito,Balcão
+2025-05-17,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-07-03,Comida,Hambúrguer,4,28,11,Débito,Delivery
+2025-05-23,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-05-05,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-05-04,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-01,Bebida,Caipirinha,3,18,6,Dinheiro,Balcão
+2025-05-05,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-06-03,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-07-01,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-17,Bebida,Cerveja,3,12,4,Débito,Balcão
+2025-05-01,Bebida,Caipirinha,3,18,6,Débito,Balcão
+2025-07-10,Comida,Porção de Batata,2,22,7,Débito,Balcão
+2025-05-27,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-04-20,Comida,Hambúrguer,4,28,11,Débito,Delivery
+2025-04-16,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-04-21,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-06-07,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-06-22,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-05-19,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-04-17,Bebida,Caipirinha,2,18,6,Dinheiro,Delivery
+2025-05-16,Comida,Porção de Batata,2,22,7,Débito,Balcão
+2025-07-10,Bebida,Caipirinha,2,18,6,Crédito,Delivery
+2025-05-29,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-07-08,Bebida,Caipirinha,2,18,6,Débito,Balcão
+2025-06-28,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-04-13,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-06-15,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Salão
+2025-06-12,Bebida,Caipirinha,2,18,6,Dinheiro,Salão
+2025-05-30,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-05-06,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-06-08,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-04-22,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Balcão
+2025-05-21,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-22,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-07-06,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-06-29,Bebida,Cerveja,4,12,4,Débito,Balcão
+2025-05-05,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-05-27,Bebida,Caipirinha,4,18,6,Débito,Delivery
+2025-04-28,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-07-03,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-06-29,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-05-08,Bebida,Cerveja,1,12,4,Débito,Salão
+2025-06-08,Comida,Hambúrguer,2,28,11,Débito,Salão
+2025-06-05,Bebida,Cerveja,4,12,4,Crédito,Balcão
+2025-04-25,Comida,Hambúrguer,1,28,11,Dinheiro,Balcão
+2025-06-19,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-05-30,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-06-21,Bebida,Caipirinha,2,18,6,Dinheiro,Delivery
+2025-05-29,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-04-12,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-05-11,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-04-13,Sobremesa,Petit Gateau,2,16,5,Débito,Balcão
+2025-07-04,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-06-30,Comida,Porção de Batata,4,22,7,Crédito,Salão
+2025-06-25,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-09,Bebida,Cerveja,4,12,4,Débito,Salão
+2025-04-17,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-06-30,Bebida,Caipirinha,1,18,6,Débito,Delivery
+2025-07-06,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-04-19,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Salão
+2025-05-25,Comida,Hambúrguer,1,28,11,Débito,Balcão
+2025-04-18,Sobremesa,Petit Gateau,1,16,5,Crédito,Balcão
+2025-06-19,Comida,Porção de Batata,1,22,7,Crédito,Balcão
+2025-06-19,Comida,Porção de Batata,3,22,7,Crédito,Salão
+2025-04-23,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-05-24,Bebida,Cerveja,4,12,4,Dinheiro,Balcão
+2025-05-31,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-05-05,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-06-29,Sobremesa,Petit Gateau,4,16,5,Crédito,Delivery
+2025-05-20,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-01,Comida,Porção de Batata,3,22,7,Dinheiro,Salão
+2025-05-30,Sobremesa,Petit Gateau,3,16,5,Débito,Balcão
+2025-06-16,Bebida,Cerveja,3,12,4,Dinheiro,Balcão
+2025-04-30,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-05-10,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-07-10,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-06-09,Bebida,Cerveja,3,12,4,Crédito,Balcão
+2025-05-21,Bebida,Cerveja,1,12,4,Crédito,Salão
+2025-05-28,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-04-22,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-05-02,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-05-12,Sobremesa,Petit Gateau,3,16,5,Débito,Delivery
+2025-06-03,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-05-02,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-05-01,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-04-18,Comida,Hambúrguer,3,28,11,Dinheiro,Delivery
+2025-06-07,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-05-02,Comida,Porção de Batata,4,22,7,Débito,Salão
+2025-07-02,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-06-28,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-04-18,Bebida,Cerveja,1,12,4,Crédito,Balcão
+2025-05-03,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-06-11,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-05-01,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-04-23,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-07-05,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-06-02,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-05-24,Comida,Porção de Batata,3,22,7,Débito,Salão
+2025-06-21,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-06-23,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Salão
+2025-04-29,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-04-20,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-05-20,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-05-20,Comida,Porção de Batata,1,22,7,Crédito,Balcão
+2025-05-24,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-06-16,Comida,Porção de Batata,1,22,7,Crédito,Delivery
+2025-06-11,Comida,Hambúrguer,3,28,11,Crédito,Salão
+2025-07-09,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-04-20,Comida,Hambúrguer,3,28,11,Dinheiro,Delivery
+2025-05-18,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-05-12,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-06-28,Bebida,Caipirinha,2,18,6,Dinheiro,Delivery
+2025-05-04,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-04-29,Comida,Hambúrguer,3,28,11,Débito,Balcão
+2025-05-22,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-05-19,Bebida,Cerveja,3,12,4,Crédito,Delivery
+2025-05-07,Bebida,Cerveja,3,12,4,Crédito,Salão
+2025-05-04,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-07-04,Comida,Porção de Batata,3,22,7,Dinheiro,Delivery
+2025-05-21,Bebida,Caipirinha,3,18,6,Débito,Salão
+2025-06-28,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-05-31,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-04-16,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-07-10,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-06-26,Comida,Hambúrguer,3,28,11,Crédito,Salão
+2025-07-08,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-07-04,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-06-27,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-04-26,Sobremesa,Petit Gateau,1,16,5,Crédito,Balcão
+2025-05-25,Bebida,Caipirinha,4,18,6,Débito,Delivery
+2025-05-01,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-05-18,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-04-17,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Salão
+2025-05-16,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-07-09,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-05-05,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-06-21,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-22,Bebida,Cerveja,1,12,4,Crédito,Balcão
+2025-05-20,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-07-07,Bebida,Cerveja,3,12,4,Dinheiro,Balcão
+2025-07-10,Bebida,Cerveja,1,12,4,Débito,Salão
+2025-06-01,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-06-15,Comida,Porção de Batata,1,22,7,Crédito,Delivery
+2025-04-25,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-05-08,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Delivery
+2025-07-08,Comida,Hambúrguer,3,28,11,Crédito,Delivery
+2025-06-03,Sobremesa,Petit Gateau,3,16,5,Crédito,Balcão
+2025-05-30,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-04-17,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-06-03,Sobremesa,Petit Gateau,2,16,5,Crédito,Delivery
+2025-05-27,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-06-27,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-04-26,Bebida,Cerveja,1,12,4,Débito,Salão
+2025-07-07,Comida,Porção de Batata,1,22,7,Dinheiro,Balcão
+2025-04-19,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-04-28,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Delivery
+2025-06-04,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-06-11,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-05-03,Bebida,Cerveja,4,12,4,Débito,Salão
+2025-04-22,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-07-01,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-05-04,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-06-04,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-06,Bebida,Caipirinha,4,18,6,Crédito,Delivery
+2025-05-19,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-06-03,Comida,Hambúrguer,3,28,11,Dinheiro,Delivery
+2025-05-29,Comida,Hambúrguer,4,28,11,Dinheiro,Delivery
+2025-07-05,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-04-30,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-15,Comida,Porção de Batata,2,22,7,Débito,Salão
+2025-05-03,Bebida,Cerveja,1,12,4,Débito,Balcão
+2025-05-17,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-06-11,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-05-08,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-05-10,Sobremesa,Petit Gateau,2,16,5,Débito,Balcão
+2025-06-18,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-04-18,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-05-23,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-07-10,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-07-10,Bebida,Caipirinha,3,18,6,Dinheiro,Delivery
+2025-04-18,Bebida,Cerveja,3,12,4,Crédito,Balcão
+2025-05-01,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-05-05,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-07-04,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-06-30,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-06-30,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-05-15,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-04-26,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-06-26,Sobremesa,Petit Gateau,3,16,5,Débito,Salão
+2025-06-14,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-06-06,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-07-09,Bebida,Cerveja,4,12,4,Dinheiro,Balcão
+2025-06-09,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-04-12,Sobremesa,Petit Gateau,3,16,5,Crédito,Balcão
+2025-06-24,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-05-08,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-10,Bebida,Caipirinha,4,18,6,Crédito,Salão
+2025-07-05,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-04-24,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-04-22,Comida,Porção de Batata,4,22,7,Débito,Salão
+2025-04-21,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-05-31,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-05-06,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-06-05,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-06-15,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Salão
+2025-04-30,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-06-08,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-05-05,Bebida,Caipirinha,3,18,6,Dinheiro,Balcão
+2025-05-25,Bebida,Cerveja,2,12,4,Dinheiro,Delivery
+2025-07-02,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-06-27,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-04-20,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-05-20,Comida,Porção de Batata,1,22,7,Dinheiro,Balcão
+2025-05-06,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-04-12,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-06-20,Bebida,Caipirinha,3,18,6,Débito,Balcão
+2025-06-08,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-05-05,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-06-17,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Balcão
+2025-05-31,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-05-20,Comida,Hambúrguer,2,28,11,Débito,Delivery
+2025-04-12,Comida,Hambúrguer,3,28,11,Débito,Salão
+2025-04-18,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-06-30,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-07-02,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-05-31,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-06-26,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-06-03,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-04-25,Comida,Hambúrguer,2,28,11,Dinheiro,Delivery
+2025-04-23,Comida,Porção de Batata,1,22,7,Dinheiro,Salão
+2025-05-09,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-07-01,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-06-22,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-06-28,Bebida,Cerveja,2,12,4,Dinheiro,Delivery
+2025-07-01,Sobremesa,Petit Gateau,4,16,5,Crédito,Salão
+2025-04-30,Comida,Porção de Batata,3,22,7,Crédito,Delivery
+2025-05-04,Comida,Hambúrguer,4,28,11,Dinheiro,Delivery
+2025-04-21,Sobremesa,Petit Gateau,3,16,5,Débito,Delivery
+2025-06-21,Comida,Porção de Batata,3,22,7,Dinheiro,Salão
+2025-06-30,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-05-18,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-06-06,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-04-25,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-07-04,Bebida,Caipirinha,2,18,6,Crédito,Balcão
+2025-06-28,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-07-08,Comida,Porção de Batata,1,22,7,Crédito,Delivery
+2025-06-23,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-06-30,Sobremesa,Petit Gateau,2,16,5,Crédito,Balcão
+2025-04-14,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-06-17,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-05-11,Comida,Hambúrguer,3,28,11,Débito,Salão
+2025-07-04,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-06-23,Comida,Hambúrguer,4,28,11,Débito,Delivery
+2025-06-28,Comida,Porção de Batata,4,22,7,Crédito,Balcão
+2025-06-23,Bebida,Cerveja,1,12,4,Débito,Balcão
+2025-05-06,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-06-21,Comida,Porção de Batata,4,22,7,Crédito,Balcão
+2025-04-21,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-29,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-06-28,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-05-02,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-06-24,Comida,Hambúrguer,3,28,11,Dinheiro,Salão
+2025-05-23,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-05-09,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-06-22,Sobremesa,Petit Gateau,3,16,5,Débito,Salão
+2025-05-02,Sobremesa,Petit Gateau,4,16,5,Crédito,Delivery
+2025-04-14,Bebida,Cerveja,3,12,4,Crédito,Balcão
+2025-04-29,Bebida,Cerveja,2,12,4,Dinheiro,Salão
+2025-05-11,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-06-28,Comida,Porção de Batata,3,22,7,Dinheiro,Delivery
+2025-07-08,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-05-07,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-06-08,Bebida,Caipirinha,4,18,6,Crédito,Delivery
+2025-05-17,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-07-09,Bebida,Caipirinha,4,18,6,Dinheiro,Balcão
+2025-05-30,Comida,Hambúrguer,1,28,11,Débito,Salão
+2025-07-05,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-04-22,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-07-08,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-04-28,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-07-07,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-05-05,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-04-21,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-05-21,Comida,Hambúrguer,3,28,11,Dinheiro,Salão
+2025-06-16,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-10,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-06-05,Comida,Porção de Batata,1,22,7,Crédito,Salão
+2025-05-28,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-05-16,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Salão
+2025-06-02,Comida,Porção de Batata,3,22,7,Crédito,Delivery
+2025-05-04,Comida,Porção de Batata,2,22,7,Débito,Salão
+2025-06-14,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-04-12,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-07-04,Bebida,Cerveja,3,12,4,Crédito,Balcão
+2025-05-30,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Delivery
+2025-06-15,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-06-17,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-06-11,Comida,Porção de Batata,4,22,7,Dinheiro,Delivery
+2025-05-14,Bebida,Caipirinha,1,18,6,Crédito,Salão
+2025-04-18,Bebida,Caipirinha,4,18,6,Dinheiro,Balcão
+2025-06-10,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-05-11,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-05-10,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-06-27,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-06-15,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-05-09,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-05-09,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-18,Comida,Porção de Batata,1,22,7,Crédito,Salão
+2025-05-18,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-05-08,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-04-23,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-19,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-07-05,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-06-11,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-07-02,Comida,Porção de Batata,3,22,7,Crédito,Salão
+2025-06-06,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-05-09,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-05-31,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-04-12,Bebida,Caipirinha,3,18,6,Débito,Delivery
+2025-05-07,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-05-20,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-06-03,Bebida,Caipirinha,2,18,6,Dinheiro,Salão
+2025-06-09,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-05-23,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-05-21,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-05-01,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-05-24,Bebida,Cerveja,3,12,4,Débito,Balcão
+2025-07-02,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-06-22,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Balcão
+2025-04-27,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-04-19,Comida,Porção de Batata,2,22,7,Dinheiro,Salão
+2025-05-28,Sobremesa,Petit Gateau,4,16,5,Crédito,Balcão
+2025-06-07,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-05-12,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-06-24,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-11,Sobremesa,Petit Gateau,2,16,5,Crédito,Delivery
+2025-05-02,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-04-29,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-04-14,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-05-04,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-05-24,Sobremesa,Petit Gateau,2,16,5,Débito,Delivery
+2025-06-27,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-04-18,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-05-19,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-06-07,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-04-29,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-06-13,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-05-26,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-05-03,Comida,Hambúrguer,1,28,11,Dinheiro,Delivery
+2025-06-10,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-04-12,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-18,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-06-20,Comida,Porção de Batata,4,22,7,Débito,Salão
+2025-04-21,Comida,Hambúrguer,1,28,11,Débito,Balcão
+2025-05-20,Sobremesa,Petit Gateau,2,16,5,Crédito,Balcão
+2025-04-27,Comida,Hambúrguer,1,28,11,Dinheiro,Delivery
+2025-07-07,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-28,Bebida,Caipirinha,4,18,6,Débito,Delivery
+2025-04-16,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-04,Comida,Hambúrguer,4,28,11,Dinheiro,Balcão
+2025-06-27,Comida,Porção de Batata,4,22,7,Débito,Salão
+2025-05-23,Comida,Hambúrguer,3,28,11,Crédito,Balcão
+2025-06-23,Bebida,Caipirinha,3,18,6,Crédito,Balcão
+2025-06-11,Bebida,Cerveja,1,12,4,Débito,Delivery
+2025-07-09,Bebida,Cerveja,4,12,4,Crédito,Balcão
+2025-06-04,Bebida,Cerveja,1,12,4,Crédito,Balcão
+2025-07-06,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-07-01,Bebida,Caipirinha,4,18,6,Crédito,Salão
+2025-06-06,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-06-15,Comida,Porção de Batata,3,22,7,Crédito,Delivery
+2025-05-27,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-06-25,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-05-31,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-07-01,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-06-17,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-05-24,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-05-05,Bebida,Cerveja,2,12,4,Dinheiro,Salão
+2025-05-04,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-06-08,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-06-19,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-05-28,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-07,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-05-06,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-04-18,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-05-07,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-05-06,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-05-10,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-05-30,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-04-24,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-05-02,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-06-13,Comida,Hambúrguer,1,28,11,Débito,Balcão
+2025-06-14,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-04-17,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-05-18,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-05-30,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-19,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-04-30,Sobremesa,Petit Gateau,4,16,5,Crédito,Delivery
+2025-05-19,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Delivery
+2025-07-02,Comida,Hambúrguer,4,28,11,Débito,Delivery
+2025-06-03,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-06-13,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-28,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-06-19,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-16,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-04-12,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-05-13,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-06-27,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-07-06,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-05-19,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-06-18,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-31,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-06-05,Bebida,Cerveja,1,12,4,Dinheiro,Salão
+2025-05-01,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-01,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-05-21,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-04-14,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Salão
+2025-05-12,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-06-12,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-05-18,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-04-26,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-05-24,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-04-23,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-06-07,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-04-14,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-05-17,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-06-01,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-04-14,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Delivery
+2025-06-08,Comida,Hambúrguer,1,28,11,Crédito,Delivery
+2025-04-24,Comida,Porção de Batata,4,22,7,Crédito,Salão
+2025-05-23,Bebida,Caipirinha,3,18,6,Crédito,Balcão
+2025-04-16,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-16,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-05-01,Comida,Hambúrguer,1,28,11,Débito,Salão
+2025-05-11,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-06-19,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-05-16,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-06-18,Comida,Porção de Batata,2,22,7,Dinheiro,Salão
+2025-06-25,Sobremesa,Petit Gateau,3,16,5,Débito,Delivery
+2025-05-04,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-04-19,Bebida,Cerveja,2,12,4,Dinheiro,Salão
+2025-04-13,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-30,Sobremesa,Petit Gateau,2,16,5,Crédito,Delivery
+2025-07-10,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-13,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-06-09,Comida,Hambúrguer,2,28,11,Dinheiro,Delivery
+2025-06-21,Comida,Hambúrguer,3,28,11,Débito,Balcão
+2025-06-09,Bebida,Cerveja,2,12,4,Dinheiro,Delivery
+2025-06-18,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-07-06,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-04-29,Bebida,Caipirinha,2,18,6,Crédito,Delivery
+2025-04-13,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-04-25,Comida,Porção de Batata,2,22,7,Crédito,Balcão
+2025-04-23,Bebida,Caipirinha,1,18,6,Débito,Delivery
+2025-06-11,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-06-01,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-05-01,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-06-13,Sobremesa,Petit Gateau,3,16,5,Débito,Balcão
+2025-06-20,Sobremesa,Petit Gateau,2,16,5,Débito,Delivery
+2025-04-27,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-06-05,Bebida,Caipirinha,3,18,6,Débito,Salão
+2025-06-18,Comida,Porção de Batata,1,22,7,Crédito,Salão
+2025-04-22,Sobremesa,Petit Gateau,2,16,5,Crédito,Balcão
+2025-06-24,Comida,Porção de Batata,3,22,7,Débito,Salão
+2025-07-07,Comida,Hambúrguer,2,28,11,Débito,Salão
+2025-04-21,Bebida,Cerveja,3,12,4,Dinheiro,Delivery
+2025-04-14,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-05-10,Bebida,Cerveja,1,12,4,Dinheiro,Delivery
+2025-06-11,Bebida,Cerveja,4,12,4,Dinheiro,Balcão
+2025-07-07,Comida,Hambúrguer,1,28,11,Crédito,Delivery
+2025-05-17,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-06-15,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-04-18,Comida,Hambúrguer,3,28,11,Dinheiro,Salão
+2025-06-13,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-06-07,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-04-21,Bebida,Caipirinha,1,18,6,Débito,Delivery
+2025-06-20,Bebida,Caipirinha,4,18,6,Dinheiro,Balcão
+2025-06-27,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-06-05,Comida,Hambúrguer,4,28,11,Dinheiro,Delivery
+2025-04-22,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-07-09,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Salão
+2025-06-21,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-05-13,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-05-20,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-15,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-05-27,Comida,Hambúrguer,3,28,11,Crédito,Salão
+2025-05-12,Comida,Hambúrguer,3,28,11,Débito,Salão
+2025-06-27,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Balcão
+2025-06-25,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-04-21,Comida,Porção de Batata,2,22,7,Débito,Salão
+2025-07-07,Bebida,Caipirinha,4,18,6,Débito,Delivery
+2025-06-08,Comida,Hambúrguer,3,28,11,Crédito,Salão
+2025-06-25,Sobremesa,Petit Gateau,3,16,5,Débito,Delivery
+2025-06-14,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-05-21,Comida,Hambúrguer,3,28,11,Dinheiro,Delivery
+2025-06-17,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-07-07,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-05-06,Bebida,Caipirinha,3,18,6,Dinheiro,Balcão
+2025-06-23,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-05-30,Bebida,Cerveja,1,12,4,Dinheiro,Balcão
+2025-05-25,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-05-21,Comida,Hambúrguer,2,28,11,Débito,Delivery
+2025-06-16,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-05-06,Bebida,Cerveja,2,12,4,Dinheiro,Delivery
+2025-06-27,Bebida,Cerveja,1,12,4,Débito,Delivery
+2025-06-25,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-04-19,Comida,Hambúrguer,2,28,11,Crédito,Salão
+2025-06-30,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-05-03,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-05-23,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-06-05,Comida,Porção de Batata,3,22,7,Dinheiro,Salão
+2025-05-16,Comida,Porção de Batata,4,22,7,Dinheiro,Delivery
+2025-04-14,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Salão
+2025-06-27,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-04-28,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-05-01,Comida,Hambúrguer,1,28,11,Crédito,Balcão
+2025-06-22,Comida,Porção de Batata,4,22,7,Crédito,Balcão
+2025-05-12,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-06-30,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-06-14,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-05-06,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-04-12,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-07-06,Bebida,Caipirinha,2,18,6,Débito,Balcão
+2025-04-19,Comida,Porção de Batata,1,22,7,Dinheiro,Balcão
+2025-06-15,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-05-25,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-19,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-06-13,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-06-09,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-05-26,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-06-22,Comida,Porção de Batata,4,22,7,Crédito,Balcão
+2025-04-20,Sobremesa,Petit Gateau,4,16,5,Crédito,Balcão
+2025-05-01,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-06-13,Comida,Porção de Batata,1,22,7,Dinheiro,Balcão
+2025-05-09,Comida,Porção de Batata,2,22,7,Dinheiro,Salão
+2025-06-03,Sobremesa,Petit Gateau,4,16,5,Crédito,Delivery
+2025-05-24,Sobremesa,Petit Gateau,2,16,5,Débito,Balcão
+2025-05-29,Comida,Hambúrguer,2,28,11,Débito,Salão
+2025-05-20,Comida,Porção de Batata,3,22,7,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,1,18,6,Débito,Balcão
+2025-05-11,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-06-14,Comida,Porção de Batata,3,22,7,Crédito,Delivery
+2025-05-06,Comida,Porção de Batata,3,22,7,Dinheiro,Balcão
+2025-05-04,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-04-22,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-04-29,Bebida,Caipirinha,3,18,6,Dinheiro,Delivery
+2025-04-22,Bebida,Caipirinha,2,18,6,Dinheiro,Delivery
+2025-05-30,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-06-19,Sobremesa,Petit Gateau,2,16,5,Débito,Salão
+2025-04-28,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-05-01,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-05-25,Bebida,Cerveja,3,12,4,Dinheiro,Delivery
+2025-06-16,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-07-08,Bebida,Caipirinha,1,18,6,Dinheiro,Balcão
+2025-05-29,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Balcão
+2025-05-07,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-04-21,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-04-29,Comida,Porção de Batata,2,22,7,Débito,Balcão
+2025-05-02,Sobremesa,Petit Gateau,2,16,5,Crédito,Balcão
+2025-04-28,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-04-13,Comida,Porção de Batata,3,22,7,Débito,Balcão
+2025-05-30,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-05-06,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-07-08,Sobremesa,Petit Gateau,2,16,5,Débito,Balcão
+2025-05-31,Bebida,Cerveja,2,12,4,Dinheiro,Delivery
+2025-06-13,Sobremesa,Petit Gateau,4,16,5,Crédito,Delivery
+2025-04-23,Sobremesa,Petit Gateau,1,16,5,Crédito,Salão
+2025-06-29,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-26,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-06-29,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-06-02,Bebida,Caipirinha,1,18,6,Crédito,Salão
+2025-05-24,Comida,Hambúrguer,4,28,11,Dinheiro,Balcão
+2025-05-21,Bebida,Cerveja,1,12,4,Crédito,Delivery
+2025-04-28,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-04-16,Bebida,Cerveja,4,12,4,Débito,Delivery
+2025-07-05,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-05-24,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-06-24,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Balcão
+2025-05-18,Comida,Hambúrguer,1,28,11,Débito,Balcão
+2025-04-18,Comida,Porção de Batata,3,22,7,Dinheiro,Balcão
+2025-06-07,Bebida,Cerveja,3,12,4,Crédito,Balcão
+2025-04-16,Comida,Hambúrguer,4,28,11,Débito,Delivery
+2025-04-25,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-06-01,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-05-09,Comida,Hambúrguer,3,28,11,Crédito,Balcão
+2025-07-10,Bebida,Caipirinha,1,18,6,Crédito,Delivery
+2025-04-22,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-06-19,Comida,Porção de Batata,1,22,7,Crédito,Salão
+2025-06-05,Bebida,Caipirinha,1,18,6,Crédito,Delivery
+2025-06-22,Sobremesa,Petit Gateau,2,16,5,Crédito,Balcão
+2025-05-02,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-05-29,Comida,Hambúrguer,1,28,11,Crédito,Balcão
+2025-05-22,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-21,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-06-28,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-07-10,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-05-09,Sobremesa,Petit Gateau,2,16,5,Crédito,Delivery
+2025-06-06,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-06-05,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-06-17,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-07-06,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-04-30,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-04-30,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-06-10,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-04-26,Bebida,Caipirinha,1,18,6,Crédito,Salão
+2025-04-27,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-04-18,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-04-12,Comida,Hambúrguer,1,28,11,Crédito,Balcão
+2025-05-22,Sobremesa,Petit Gateau,2,16,5,Débito,Delivery
+2025-06-04,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-05-08,Sobremesa,Petit Gateau,1,16,5,Crédito,Balcão
+2025-05-02,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-06-14,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Salão
+2025-06-14,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Delivery
+2025-05-22,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-06-12,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Salão
+2025-07-04,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Salão
+2025-06-21,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-06-07,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-06-10,Bebida,Caipirinha,3,18,6,Débito,Salão
+2025-07-05,Comida,Porção de Batata,2,22,7,Crédito,Salão
+2025-05-20,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-05-31,Comida,Porção de Batata,3,22,7,Dinheiro,Delivery
+2025-06-09,Comida,Porção de Batata,2,22,7,Crédito,Salão
+2025-07-02,Comida,Porção de Batata,4,22,7,Débito,Salão
+2025-06-25,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-04-18,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-04-26,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-05-09,Bebida,Caipirinha,1,18,6,Crédito,Delivery
+2025-06-18,Bebida,Cerveja,4,12,4,Débito,Salão
+2025-06-02,Sobremesa,Petit Gateau,4,16,5,Crédito,Salão
+2025-05-07,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-04-23,Comida,Porção de Batata,4,22,7,Crédito,Balcão
+2025-06-12,Bebida,Caipirinha,3,18,6,Débito,Delivery
+2025-06-13,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-07-05,Comida,Porção de Batata,1,22,7,Dinheiro,Salão
+2025-05-27,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-26,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-04-19,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-04-15,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-20,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-05-11,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-04,Bebida,Caipirinha,4,18,6,Dinheiro,Balcão
+2025-04-20,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-07-07,Sobremesa,Petit Gateau,3,16,5,Débito,Balcão
+2025-06-26,Comida,Porção de Batata,4,22,7,Crédito,Salão
+2025-06-02,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-07-06,Bebida,Cerveja,1,12,4,Crédito,Salão
+2025-07-10,Bebida,Caipirinha,1,18,6,Débito,Balcão
+2025-06-11,Comida,Hambúrguer,3,28,11,Crédito,Balcão
+2025-05-06,Comida,Hambúrguer,3,28,11,Dinheiro,Salão
+2025-04-15,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-06-19,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-05-24,Sobremesa,Petit Gateau,3,16,5,Crédito,Balcão
+2025-06-09,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-07-03,Bebida,Cerveja,1,12,4,Débito,Salão
+2025-04-28,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-06-03,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-06-08,Comida,Porção de Batata,3,22,7,Crédito,Salão
+2025-05-26,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-04-20,Comida,Hambúrguer,1,28,11,Débito,Salão
+2025-05-13,Comida,Porção de Batata,1,22,7,Crédito,Balcão
+2025-05-11,Comida,Porção de Batata,4,22,7,Dinheiro,Delivery
+2025-06-11,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-28,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-05-11,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-06-13,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-05-07,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-07-06,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-06-24,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-05-31,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-05-22,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-05-10,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-05-11,Sobremesa,Petit Gateau,4,16,5,Crédito,Balcão
+2025-07-08,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-05-18,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-05-28,Comida,Hambúrguer,2,28,11,Dinheiro,Delivery
+2025-07-09,Comida,Hambúrguer,2,28,11,Dinheiro,Balcão
+2025-06-10,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-05-30,Sobremesa,Petit Gateau,2,16,5,Débito,Balcão
+2025-05-19,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-04-28,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-05-14,Bebida,Cerveja,3,12,4,Crédito,Delivery
+2025-06-19,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-06-07,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-06-19,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-04-30,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-05-31,Bebida,Cerveja,1,12,4,Débito,Delivery
+2025-07-04,Comida,Porção de Batata,3,22,7,Dinheiro,Delivery
+2025-05-21,Comida,Porção de Batata,1,22,7,Dinheiro,Salão
+2025-06-13,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-04-22,Comida,Hambúrguer,4,28,11,Dinheiro,Delivery
+2025-07-08,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-06-05,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-05-03,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-04-26,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-05-31,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-05-31,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-04-20,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-07-10,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Delivery
+2025-07-03,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-05-23,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-04-22,Bebida,Caipirinha,3,18,6,Débito,Balcão
+2025-06-25,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-05-26,Comida,Porção de Batata,3,22,7,Crédito,Delivery
+2025-06-15,Sobremesa,Petit Gateau,4,16,5,Débito,Salão
+2025-05-27,Sobremesa,Petit Gateau,4,16,5,Crédito,Salão
+2025-05-06,Bebida,Cerveja,2,12,4,Crédito,Balcão
+2025-06-26,Comida,Hambúrguer,1,28,11,Dinheiro,Balcão
+2025-07-09,Bebida,Caipirinha,3,18,6,Débito,Salão
+2025-05-03,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-05-31,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-05-16,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-07-03,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-05-27,Bebida,Caipirinha,4,18,6,Crédito,Delivery
+2025-06-30,Bebida,Caipirinha,1,18,6,Dinheiro,Balcão
+2025-06-28,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-05-06,Bebida,Caipirinha,1,18,6,Débito,Balcão
+2025-06-22,Comida,Hambúrguer,3,28,11,Débito,Salão
+2025-05-19,Comida,Hambúrguer,1,28,11,Crédito,Salão
+2025-07-05,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-05-27,Bebida,Caipirinha,1,18,6,Crédito,Salão
+2025-06-24,Bebida,Cerveja,3,12,4,Dinheiro,Balcão
+2025-05-07,Comida,Porção de Batata,1,22,7,Crédito,Salão
+2025-05-08,Comida,Hambúrguer,2,28,11,Dinheiro,Delivery
+2025-06-03,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Salão
+2025-07-10,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Balcão
+2025-05-26,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-04-25,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-05-30,Comida,Hambúrguer,4,28,11,Crédito,Balcão
+2025-05-13,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-05-31,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-05-30,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-05-22,Bebida,Caipirinha,3,18,6,Débito,Balcão
+2025-05-10,Sobremesa,Petit Gateau,3,16,5,Crédito,Salão
+2025-04-28,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-06-13,Bebida,Cerveja,4,12,4,Dinheiro,Delivery
+2025-06-02,Comida,Porção de Batata,4,22,7,Dinheiro,Delivery
+2025-05-03,Bebida,Cerveja,1,12,4,Débito,Delivery
+2025-06-20,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-04-15,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-06-14,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-06-24,Bebida,Caipirinha,3,18,6,Crédito,Delivery
+2025-05-16,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-06-10,Bebida,Cerveja,2,12,4,Débito,Delivery
+2025-06-24,Comida,Porção de Batata,3,22,7,Débito,Salão
+2025-07-09,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-05-26,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-04-15,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-05-27,Comida,Porção de Batata,2,22,7,Débito,Salão
+2025-06-04,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-06-29,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-06-29,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-05-21,Sobremesa,Petit Gateau,1,16,5,Crédito,Salão
+2025-05-29,Comida,Hambúrguer,3,28,11,Dinheiro,Delivery
+2025-05-23,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-06-16,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-05-18,Sobremesa,Petit Gateau,4,16,5,Dinheiro,Balcão
+2025-06-09,Bebida,Cerveja,3,12,4,Crédito,Delivery
+2025-04-25,Bebida,Cerveja,1,12,4,Débito,Balcão
+2025-05-24,Comida,Hambúrguer,4,28,11,Crédito,Delivery
+2025-07-08,Comida,Hambúrguer,1,28,11,Dinheiro,Salão
+2025-05-12,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-06-13,Bebida,Cerveja,4,12,4,Dinheiro,Balcão
+2025-06-09,Sobremesa,Petit Gateau,1,16,5,Dinheiro,Salão
+2025-06-27,Bebida,Caipirinha,3,18,6,Débito,Salão
+2025-06-27,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-06-28,Bebida,Caipirinha,1,18,6,Crédito,Delivery
+2025-05-16,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-05-10,Sobremesa,Petit Gateau,2,16,5,Crédito,Salão
+2025-06-15,Bebida,Cerveja,3,12,4,Débito,Delivery
+2025-06-19,Comida,Hambúrguer,2,28,11,Débito,Balcão
+2025-06-29,Bebida,Cerveja,3,12,4,Crédito,Salão
+2025-04-15,Comida,Porção de Batata,2,22,7,Dinheiro,Balcão
+2025-04-18,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-06-07,Comida,Hambúrguer,3,28,11,Débito,Balcão
+2025-07-03,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-07-10,Comida,Porção de Batata,1,22,7,Dinheiro,Balcão
+2025-06-18,Bebida,Caipirinha,3,18,6,Débito,Delivery
+2025-05-21,Bebida,Caipirinha,3,18,6,Dinheiro,Salão
+2025-04-20,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-06-08,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-06-29,Sobremesa,Petit Gateau,4,16,5,Crédito,Balcão
+2025-05-21,Comida,Porção de Batata,1,22,7,Débito,Salão
+2025-06-13,Comida,Hambúrguer,2,28,11,Dinheiro,Delivery
+2025-07-02,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-04-16,Comida,Hambúrguer,4,28,11,Débito,Balcão
+2025-06-22,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-05-08,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-05-15,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-04-25,Comida,Hambúrguer,3,28,11,Crédito,Salão
+2025-05-29,Comida,Hambúrguer,2,28,11,Débito,Delivery
+2025-06-01,Bebida,Caipirinha,1,18,6,Débito,Salão
+2025-06-22,Bebida,Cerveja,4,12,4,Débito,Salão
+2025-04-27,Sobremesa,Petit Gateau,2,16,5,Crédito,Delivery
+2025-04-19,Bebida,Cerveja,1,12,4,Débito,Salão
+2025-06-29,Sobremesa,Petit Gateau,2,16,5,Débito,Delivery
+2025-06-06,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-05-03,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-07-03,Sobremesa,Petit Gateau,2,16,5,Dinheiro,Salão
+2025-04-24,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-05-23,Bebida,Cerveja,1,12,4,Dinheiro,Salão
+2025-05-04,Bebida,Cerveja,1,12,4,Dinheiro,Salão
+2025-05-04,Comida,Porção de Batata,2,22,7,Dinheiro,Salão
+2025-04-12,Sobremesa,Petit Gateau,3,16,5,Débito,Balcão
+2025-06-23,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-07-02,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-11,Bebida,Caipirinha,1,18,6,Crédito,Delivery
+2025-04-26,Sobremesa,Petit Gateau,1,16,5,Crédito,Salão
+2025-05-21,Comida,Hambúrguer,2,28,11,Crédito,Delivery
+2025-05-13,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-03,Comida,Hambúrguer,1,28,11,Débito,Salão
+2025-06-08,Bebida,Cerveja,3,12,4,Dinheiro,Salão
+2025-05-20,Bebida,Cerveja,3,12,4,Débito,Salão
+2025-05-04,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-06-27,Comida,Porção de Batata,1,22,7,Dinheiro,Delivery
+2025-04-29,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-05-16,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-05-25,Bebida,Caipirinha,2,18,6,Débito,Delivery
+2025-05-03,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-06-02,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-06-02,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-07-10,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-05-08,Bebida,Caipirinha,4,18,6,Dinheiro,Salão
+2025-07-09,Bebida,Cerveja,2,12,4,Crédito,Salão
+2025-06-10,Comida,Hambúrguer,3,28,11,Dinheiro,Salão
+2025-05-06,Sobremesa,Petit Gateau,3,16,5,Débito,Salão
+2025-06-01,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-06-12,Comida,Hambúrguer,2,28,11,Dinheiro,Salão
+2025-06-18,Comida,Porção de Batata,3,22,7,Crédito,Balcão
+2025-04-16,Bebida,Caipirinha,3,18,6,Crédito,Balcão
+2025-06-05,Comida,Hambúrguer,2,28,11,Débito,Salão
+2025-05-26,Comida,Hambúrguer,3,28,11,Débito,Delivery
+2025-07-02,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-05-07,Bebida,Caipirinha,1,18,6,Dinheiro,Balcão
+2025-06-22,Comida,Hambúrguer,2,28,11,Crédito,Balcão
+2025-06-05,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-05-13,Comida,Porção de Batata,2,22,7,Dinheiro,Delivery
+2025-06-08,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-06-06,Comida,Hambúrguer,4,28,11,Dinheiro,Salão
+2025-06-11,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-06-15,Bebida,Caipirinha,4,18,6,Dinheiro,Delivery
+2025-06-10,Bebida,Caipirinha,1,18,6,Crédito,Balcão
+2025-06-26,Comida,Porção de Batata,3,22,7,Débito,Salão
+2025-06-07,Sobremesa,Petit Gateau,1,16,5,Crédito,Delivery
+2025-07-02,Comida,Porção de Batata,3,22,7,Débito,Delivery
+2025-06-09,Bebida,Cerveja,1,12,4,Crédito,Salão
+2025-05-09,Bebida,Cerveja,3,12,4,Dinheiro,Delivery
+2025-05-21,Bebida,Cerveja,1,12,4,Débito,Balcão
+2025-06-03,Bebida,Cerveja,4,12,4,Dinheiro,Balcão
+2025-06-16,Comida,Porção de Batata,2,22,7,Crédito,Delivery
+2025-04-20,Sobremesa,Petit Gateau,1,16,5,Crédito,Balcão
+2025-05-08,Bebida,Cerveja,3,12,4,Crédito,Salão
+2025-06-18,Comida,Porção de Batata,4,22,7,Dinheiro,Balcão
+2025-04-27,Bebida,Cerveja,1,12,4,Dinheiro,Salão
+2025-04-23,Comida,Porção de Batata,1,22,7,Crédito,Delivery
+2025-05-30,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-07-08,Sobremesa,Petit Gateau,1,16,5,Débito,Delivery
+2025-05-29,Bebida,Caipirinha,2,18,6,Débito,Salão
+2025-07-03,Bebida,Caipirinha,1,18,6,Crédito,Salão
+2025-06-25,Comida,Hambúrguer,2,28,11,Débito,Salão
+2025-05-05,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-06-25,Comida,Porção de Batata,4,22,7,Dinheiro,Delivery
+2025-05-25,Comida,Porção de Batata,1,22,7,Débito,Balcão
+2025-06-23,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-06-18,Comida,Hambúrguer,1,28,11,Crédito,Balcão
+2025-05-12,Comida,Hambúrguer,1,28,11,Débito,Delivery
+2025-04-22,Bebida,Caipirinha,3,18,6,Crédito,Salão
+2025-07-07,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-04-24,Comida,Porção de Batata,4,22,7,Crédito,Delivery
+2025-07-07,Bebida,Cerveja,2,12,4,Débito,Salão
+2025-06-28,Sobremesa,Petit Gateau,1,16,5,Crédito,Salão
+2025-06-16,Bebida,Cerveja,3,12,4,Dinheiro,Delivery
+2025-07-09,Bebida,Cerveja,4,12,4,Dinheiro,Salão
+2025-07-08,Bebida,Caipirinha,1,18,6,Dinheiro,Delivery
+2025-06-23,Comida,Porção de Batata,4,22,7,Débito,Delivery
+2025-05-14,Sobremesa,Petit Gateau,3,16,5,Crédito,Delivery
+2025-06-22,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Balcão
+2025-04-13,Bebida,Caipirinha,4,18,6,Crédito,Balcão
+2025-05-30,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-05-22,Bebida,Cerveja,2,12,4,Débito,Balcão
+2025-06-11,Bebida,Cerveja,3,12,4,Débito,Balcão
+2025-06-11,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-06-03,Sobremesa,Petit Gateau,1,16,5,Débito,Balcão
+2025-06-25,Bebida,Cerveja,2,12,4,Dinheiro,Balcão
+2025-07-05,Comida,Hambúrguer,3,28,11,Dinheiro,Balcão
+2025-04-21,Sobremesa,Petit Gateau,3,16,5,Débito,Delivery
+2025-05-03,Bebida,Caipirinha,1,18,6,Dinheiro,Salão
+2025-04-14,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-06-30,Comida,Porção de Batata,2,22,7,Dinheiro,Salão
+2025-06-01,Bebida,Caipirinha,2,18,6,Crédito,Delivery
+2025-07-03,Sobremesa,Petit Gateau,3,16,5,Dinheiro,Delivery
+2025-05-01,Bebida,Caipirinha,4,18,6,Débito,Balcão
+2025-04-17,Bebida,Caipirinha,3,18,6,Dinheiro,Balcão
+2025-06-25,Comida,Porção de Batata,1,22,7,Dinheiro,Salão
+2025-07-02,Comida,Hambúrguer,3,28,11,Débito,Salão
+2025-05-09,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-05-18,Bebida,Caipirinha,2,18,6,Crédito,Delivery
+2025-04-24,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-07-06,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-05-09,Comida,Porção de Batata,4,22,7,Débito,Balcão
+2025-05-26,Bebida,Caipirinha,2,18,6,Crédito,Salão
+2025-04-20,Bebida,Caipirinha,4,18,6,Débito,Delivery
+2025-06-30,Bebida,Cerveja,4,12,4,Crédito,Salão
+2025-04-24,Sobremesa,Petit Gateau,4,16,5,Débito,Delivery
+2025-05-22,Comida,Hambúrguer,1,28,11,Débito,Salão
+2025-06-11,Bebida,Caipirinha,4,18,6,Débito,Salão
+2025-06-17,Comida,Hambúrguer,2,28,11,Crédito,Salão
+2025-07-06,Comida,Hambúrguer,4,28,11,Crédito,Salão
+2025-05-19,Sobremesa,Petit Gateau,4,16,5,Débito,Balcão
+2025-06-17,Comida,Hambúrguer,2,28,11,Débito,Delivery
+2025-04-25,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-05-19,Bebida,Caipirinha,2,18,6,Dinheiro,Balcão
+2025-04-20,Bebida,Cerveja,4,12,4,Crédito,Delivery
+2025-05-26,Comida,Porção de Batata,2,22,7,Débito,Delivery
+2025-05-18,Comida,Porção de Batata,4,22,7,Dinheiro,Salão
+2025-07-06,Comida,Hambúrguer,4,28,11,Débito,Salão
+2025-04-14,Sobremesa,Petit Gateau,1,16,5,Débito,Salão
+2025-05-15,Comida,Porção de Batata,1,22,7,Débito,Delivery
+2025-05-21,Bebida,Caipirinha,4,18,6,Crédito,Salão
+2025-07-06,Bebida,Caipirinha,4,18,6,Crédito,Delivery
+2025-06-27,Bebida,Caipirinha,3,18,6,Dinheiro,Delivery
